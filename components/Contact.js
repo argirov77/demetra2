@@ -14,7 +14,7 @@ export default function Contact() {
           Andorra la Vella, Andorra lfd
         </address>
 
-        <a href="mailto:info@nadelir.com" className="btn-primary">
+        <a href="mailto:main@ishtar.tech" className="btn-primary">
           Send mail
         </a>
       </div>

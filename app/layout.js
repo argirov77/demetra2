@@ -2,8 +2,8 @@
 import '../styles/globals.css'
 
 export const metadata = {
-  title: 'CoolSite',
-  description: 'A sleek Next.js + Tailwind template',
+  title: 'ISHTAR affiliate marketing',
+  description: 'A high-quality affiliate marketing',
 }
 
 export default function RootLayout({ children }) {
